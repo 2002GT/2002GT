@@ -2,7 +2,8 @@
 - 👀 I’m interested in programing, web development, & Data Science
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on google
-- 📫 How to reach me ...
+- 📫 How to reach me -
+-    My Linkdin profile -https://www.linkedin.com/in/gayatri-tiwari-a551591b2/
 
 <!---
 2002GT/2002GT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
