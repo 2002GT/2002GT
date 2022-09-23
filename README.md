@@ -1,4 +1,7 @@
 - 👋 Hi, I’m Gayatri
+-   Computer Science undergraduate who has lot of interest in programming .
+-   I look forward to the opportunity of being interviewed in order to share more about my skills   that i could bring to any company.
+-   I'm a quick learner and have passion for coding and learning new technologies
 - 👀 I’m interested in programing, web development, & Data Science
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on google
@@ -11,3 +14,6 @@
        alt="snake" /></a>
 </div>
 
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p
