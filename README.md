@@ -5,7 +5,9 @@
 - 📫 How to reach me -
 -    My Linkdin profile -https://www.linkedin.com/in/gayatri-tiwari-a551591b2/
 
-<!---
-2002GT/2002GT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://www.linkedin.com/in/gayatri-tiwari-a551591b2/"> 
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
