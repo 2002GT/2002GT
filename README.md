@@ -3,7 +3,7 @@
 -   I look forward to the opportunity of being interviewed in order to share more about my skills   that i could bring to any company.
 -   I'm a quick learner and have passion for coding and learning new technologies
 - 👀 I’m interested in programing, web development, & Data Science
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently working on Ocwen financial as a Data Analyst. 
 - 💞️ I’m looking to collaborate on google
 - 📫 How to reach me -
 -    My Linkdin profile -https://www.linkedin.com/in/gayatri-tiwari-a551591b2/
